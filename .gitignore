@@ -1,5 +1,6 @@
 .obsidian/
 .vscode/
+build/
 
 # Prerequisites
 *.d
